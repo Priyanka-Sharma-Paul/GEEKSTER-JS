@@ -19,14 +19,16 @@ This repository is a compilation of all the assignments and projects I've comple
 
 The Geekster JavaScript Module covers a wide range of topics, including:
 
-- JavaScript Basics
-- Data Structures
-- Functions and Scope
-- Object-Oriented Programming
-- Asynchronous Programming
-- DOM Manipulation
-- API Integration
-- Testing and Debugging
+- Introduction to JS
+- Selection or Control Statement Loops
+- Arrays And Its Methods
+- Intro To String
+- Objects In JS
+- Functions
+- HOF And Loops In Array
+- Introduction to DOM
+- Events
+- Event Flow
 
 ## Assignments
 
