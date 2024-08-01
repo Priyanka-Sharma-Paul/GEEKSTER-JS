@@ -34,11 +34,14 @@ The Geekster JavaScript Module covers a wide range of topics, including:
 
 Each assignment is located in its respective folder within the repository. Below is a list of assignments with brief descriptions:
 
-1. **Weekly Test 2**
-   - Create age calculator : [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/weekly-test/weekly-test-2/)
+1. **Weekly Test 2** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/weekly-test/weekly-test-2/)
+   - Create age calculator
 
-2. **DOM project 1**
-   - You need to change the colour, background colour, margin, padding, font size, font weight, height, width of a div using DOM : [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/DOM-project-1/)
+2. **DOM project 1** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/DOM-project-1/)
+   - You need to change the colour, background colour, margin, padding, font size, font weight, height, width of a div using DOM
+
+3. **Dark Mode** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/dark-mode/)
+   - You have to implement the toggle functionality to change theme
 
 
 ## Technologies Used
