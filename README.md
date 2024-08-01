@@ -43,6 +43,9 @@ Each assignment is located in its respective folder within the repository. Below
 3. **Dark Mode** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/dark-mode/)
    - You have to implement the toggle functionality to change theme
 
+4. **Change shape and Color** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/change-shape-and-color/)
+   - You need to create a 'Change Shape and Color' project in which, when the user clicks the 'Change Color' button, the color should be changed, and when the user clicks the 'Change Shapes' button, the shape should be changed.
+
 
 ## Technologies Used
 
