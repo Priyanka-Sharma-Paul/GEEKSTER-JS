@@ -46,9 +46,11 @@ Each assignment is located in its respective folder within the repository. Below
 4. **Change shape and Color** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/change-shape-and-color/)
    - You need to create a 'Change Shape and Color' project in which, when the user clicks the 'Change Color' button, the color should be changed, and when the user clicks the 'Change Shapes' button, the shape should be changed.
 
-5. **Age Calculator** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/weekly-test/age-calculator/)
+5. **Age Calculator** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/age-calculator/)
    - You have to make age calculator which will find the age of user.
 
+6. **Generating the keyboard code** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/generating-the-keyboard-code/)
+   - You need to create a 'Keycode Keyboard' project in which, when you press any key on the keyboard, it will be displayed on the screen along with its corresponding key code.
 
 ## Technologies Used
 
