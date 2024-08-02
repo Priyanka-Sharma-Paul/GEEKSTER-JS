@@ -46,6 +46,9 @@ Each assignment is located in its respective folder within the repository. Below
 4. **Change shape and Color** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/change-shape-and-color/)
    - You need to create a 'Change Shape and Color' project in which, when the user clicks the 'Change Color' button, the color should be changed, and when the user clicks the 'Change Shapes' button, the shape should be changed.
 
+5. **Age Calculator** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/weekly-test/age-calculator/)
+   - You have to make age calculator which will find the age of user.
+
 
 ## Technologies Used
 
