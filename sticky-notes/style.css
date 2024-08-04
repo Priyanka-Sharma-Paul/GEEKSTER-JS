@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+
+.left-container {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(209, 220, 231);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    transition: width 1s linear;
+}
+
+#textarea, #title {
+    box-shadow: 4px 4px 10px 0px #803636;
+    border-radius: 5px;
+    padding: 15px;
+    border: none;
+}
+
+#add {
+    background-image: linear-gradient(to right, #ed6ea0, #ec8c69, #f7186a, #fbb03b);
+    box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+}
+
+.text-function {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+}
+
+.text-function button {
+    width: 30px;
+    box-shadow: 4px 4px 7px 0px #803636;
+    border-radius: 4px;
+    padding: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.text-function input {
+    box-shadow: 4px 4px 7px 0px #803636;
+    border-radius: 4px;
+    padding: 2px;
+    cursor: pointer;
+    border: none;
+}
+
+.text-function button.active {
+    background-color: #2980b9;
+    transform: scale(0.98);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
+
+.text-container > * {
+    width: 80%;
+}
+
+#icons {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: 0;
+    right: -28px;
+    background-image: radial-gradient(#F1F8E9, rgb(209, 220, 231));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0 3px 3px 0;
+}
+
+#icons.minimized i {
+    transform: rotate(180deg);
+}
+
+.left-container.minimized { 
+    width: 0%;
+}
+
+.hidden{ 
+    display: none !important;
+}
+
+.right-container.maximized { 
+    width: 100%;
+}
+
+.right-container {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20PX;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+.right-container-notes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20PX;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-content: flex-start;
+    width: 100%;
+    overflow-y: scroll;
+    flex-grow: 1;
+}
+
+.notes .close{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: red;
+}
+
+.notes {
+    min-width: 200px;
+    height: 150px;
+    position: relative;
+    padding: 10px;
+}
+
+.notes .title {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 2px;
+}

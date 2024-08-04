@@ -52,6 +52,11 @@ Each assignment is located in its respective folder within the repository. Below
 6. **Generating the keyboard code** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/generating-the-keyboard-code/)
    - You need to create a 'Keycode Keyboard' project in which, when you press any key on the keyboard, it will be displayed on the screen along with its corresponding key code.
 
+7. **Sticky Notes** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/sticky-notes/)
+   - You have to create a 'Sticky Notes' project. It will feature a text box and a color picker, allowing users to adjust the note's color. By clicking the 'Add Notes' button, a sticky note will be created and displayed. Additionally, the sticky note will have a 'Delete' option accessible by clicking a button.
+
+
+
 ## Technologies Used
 
 - **JavaScript**: The primary programming language used for all assignments.

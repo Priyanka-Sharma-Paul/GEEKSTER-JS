@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sticky Notes</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left-container">
+            <div class="text-container">
+                <input type="text" id="title" name="title" placeholder="Title">
+                <textarea name="textarea" id="textarea" rows="10" placeholder="// Write a note here"></textarea>
+                <div class="text-function">
+                    <button id="bold"><b>B</b></button>
+                    <button id="italic"><i>I</i></button>
+                    <button id="underline"><u>U</u></button>
+                    <input id="colorInput" type="color" value="#63f2db">
+                </div>
+                <button id="add">Add note</button>
+            </div>
+            <div id="icons">
+                <i class="fa-solid fa-angle-left"></i>
+            </div>
+        </div>
+        <div class="right-container" >
+            <h1>Your Notes</h1>
+            <div class="right-container-notes hidden"></div>
+            <span class="notesNotAdded">
+                <p>You have not added a note yet.</p>
+            </span>
+
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
