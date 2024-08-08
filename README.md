@@ -58,6 +58,9 @@ Each assignment is located in its respective folder within the repository. Below
 8. **Weekly Test 3** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/weekly-test/weekly-test-3/)
    - Create a component with two boxes side by side as shown in the picture. The left box should show the list of products available in the store along with the add and remove button against each product. The product quantity which is added in the cart is also show between the two buttons. The right box should show the cart with products added along with quantity and total Price.
 
+9. **Emoji Project** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/emoji-project/)
+   - You have to create an emoji project that displays a collection of emojis. It should also include a search option, allowing users to search for specific emojis.
+
 
 
 ## Technologies Used
