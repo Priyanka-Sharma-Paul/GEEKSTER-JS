@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f133e;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
+#inputForm {
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(17, 121, 206);
+    padding: 20px;
+    border: 2px solid black;
+}
+
+input {
+    outline: none;
+    width: 150px;
+    height: 53px;
+    font-size: 20px;
+    padding: 0px 10px;
+}
+
+button {
+    outline: none;
+    width: 150px;
+    height: 54px;
+    padding: 10px;
+    font-size: 22px;
+
+}
+
+select {
+    width: 150px;
+    height: 53px;
+    font-size: 20px;
+    color: black;
+}
+
+.container {
+    width: 80%;
+    max-height: 430px;
+    border: 2px solid rgb(17, 121, 206);
+    padding: 30px 20px;
+    margin: 40px 40px 0;
+    display: none;
+    overflow: scroll;
+
+}
+
+.container::-webkit-scrollbar {
+    display: none;
+}
+
+::placeholder {
+    color: black;
+}
+
+.score-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    padding: 30px 10px;
+    margin: 15px;
+    color: white;
+    background: rgb(17, 121, 206);
+}
+
+.item {
+    width: 20%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.group {
+    width: 22%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 25px;
+}
+
+.group-item {
+    padding: 5px 20px;
+    cursor: pointer;
+}
