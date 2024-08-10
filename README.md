@@ -64,6 +64,9 @@ Each assignment is located in its respective folder within the repository. Below
 10. **LeaderBoard Project** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/leaderBoard-project/)
    - You need to create a counter app that increases the count by 1 when pressing the + button, decreases the count by 1 when pressing the - button, and resets the count value to 0 by pressing the reset button.
 
+11. **Feedback UI** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/feedback-ui/)
+   - You need to create a feedback system. When user clicks on any feedback and then click on send review, then show the UI as shown in the link.
+
 
 ## Technologies Used
 
