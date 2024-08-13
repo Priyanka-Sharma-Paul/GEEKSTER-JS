@@ -67,6 +67,9 @@ Each assignment is located in its respective folder within the repository. Below
 11. **Feedback UI** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/feedback-ui/)
     - You need to create a feedback system. When user clicks on any feedback and then click on send review, then show the UI as shown in the link.
 
+12. **Stop Watch+** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/stop-watch/)
+    - You need to create a stopwatch with three buttons: Start, Stop, and Reset. The Start button will initiate the stopwatch, the Stop button will pause it, and the Reset button will reset the stopwatch when clicked.
+
 
 ## Technologies Used
 
