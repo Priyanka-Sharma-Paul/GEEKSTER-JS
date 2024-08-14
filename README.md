@@ -70,6 +70,9 @@ Each assignment is located in its respective folder within the repository. Below
 12. **Stop Watch** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/stop-watch/)
     - You need to create a stopwatch with three buttons: Start, Stop, and Reset. The Start button will initiate the stopwatch, the Stop button will pause it, and the Reset button will reset the stopwatch when clicked.
 
+13. **Digital Clock** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/digital-clock/)
+    - You have to create a digital clock project that displays the real-time to you.
+
 
 ## Technologies Used
 
