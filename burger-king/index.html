@@ -7,17 +7,26 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <button id="orderButton">Order Food</button>
-    <div id="foodItems">
-      <input type="checkbox" id="burger" name="foodItem" value="Burger" />
-      <label for="burger">Burger</label>
-      <input type="checkbox" id="fries" name="foodItem" value="Fries" />
-      <label for="fries">Fries</label>
-      <input type="checkbox" id="drink" name="foodItem" value="Drink" />
-      <label for="drink">Drink</label>
+    
+    <div id="placeOrder">
+        <div id="items">
+            <img class="item" id="burger" src="burger.jpeg">
+            <img class="item" id="fire" src="fries.jpeg">
+            <img class="item" id="drinks" src="drinks.jpeg">
+        </div>
+        <button id="orderButton" disabled>Order Food</button>
     </div>
-    <img id="foodImage" src="" alt="Food" />
-    <div id="orderId">Order ID: <span id="orderIdValue"></span></div>
+    <div id="orderStatus">
+        <h2>Order Placed</h2>
+        <div id="ordered_items">
+            <img class="ordered_item" id="ordered_burger" src="burger.jpeg">
+            <img class="ordered_item" id="ordered_fire" src="fries.jpeg">
+            <img class="ordered_item" id="ordered_drinks" src="drinks.jpeg">
+        </div>
+        <div id="orderId">Order ID: <span id="orderIdValue"></span></div>
+        <button id="done">Done</button>
+    </div>
+    <div id="overlay"><img src="loader.gif"><span>Processing Order....</span></div>
     <script src="script.js"></script>
 </body>
 </html>
