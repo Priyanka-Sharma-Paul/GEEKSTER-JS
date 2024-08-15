@@ -73,6 +73,12 @@ Each assignment is located in its respective folder within the repository. Below
 13. **Digital Clock** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/digital-clock/)
     - You have to create a digital clock project that displays the real-time to you.
 
+14. **Burger King franchise** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/burger-king/)
+    - You have recently acquired a Burger King franchise. As a software developer, you aim to design a virtual food ordering system to manage incoming orders. Users should be able to place orders through this system, and once an order is completed, it should be displayed on the screen along with an order number.Description: Create a button labeled 'Order Food'. Include checkboxes for selecting multiple food items. When a user clicks 'Order Food', create a promise that will resolve after a random number of seconds. After the promise is resolved, display an image of the ordered food in the center of the screen and show the order ID in the top right corner. Strive to make your virtual restaurant experience as realistic as possible."
+
+
+
+
 
 ## Technologies Used
 
