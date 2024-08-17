@@ -76,7 +76,11 @@ Each assignment is located in its respective folder within the repository. Below
 14. **Burger King franchise** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/burger-king/)
     - You have recently acquired a Burger King franchise. As a software developer, you aim to design a virtual food ordering system to manage incoming orders. Users should be able to place orders through this system, and once an order is completed, it should be displayed on the screen along with an order number.Description: Create a button labeled 'Order Food'. Include checkboxes for selecting multiple food items. When a user clicks 'Order Food', create a promise that will resolve after a random number of seconds. After the promise is resolved, display an image of the ordered food in the center of the screen and show the order ID in the top right corner. Strive to make your virtual restaurant experience as realistic as possible."
 
+15. **Image Search App** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/image-search-app/)
+    - You have to create an image search project with a search option and a button. When I search and click the button, it should display all the images related to my search.
 
+16. **Dad Jokes generator** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/dad-jokes-generator/)
+    - You have to create a Dad Jokes generator with a button. When I click on the button, it will show me jokes.
 
 
 
