@@ -82,6 +82,9 @@ Each assignment is located in its respective folder within the repository. Below
 16. **Dad Jokes generator** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/dad-jokes-generator/)
     - You have to create a Dad Jokes generator with a button. When I click on the button, it will show me jokes.
 
+17. **Weekly Test - 4** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/weekly-test/weekly-test-4)
+    - You have to create a web application that allows users to search for mobile phones by brand or name and view their details
+
 
 
 ## Technologies Used
