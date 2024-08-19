@@ -85,6 +85,15 @@ Each assignment is located in its respective folder within the repository. Below
 17. **Weekly Test - 4** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/weekly-test/weekly-test-4)
     - You have to create a web application that allows users to search for mobile phones by brand or name and view their details
 
+18. **Card Project** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/card-project)
+    - You have to create a card project that displays the user's name, phone number, village, and city, and stores them in local storage
+
+19. **GeeksterPok** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/geekster-pok)
+    - You have to create a 'GeeksterPok' project that displays a list of Pokémon. There will be a 'Type' button with choices like grass, fire, etc. When you click the 'Filter by Type' button, it will show Pokémon of the selected type. Clicking the 'Reset' button will reset and display all Pokémon.
+
+20. **Local Storage Project** [Link](https://priyanka-sharma-paul.github.io/GEEKSTER-JS/local-storage-project)
+    - You have to create a card project that displays the user's name, phone number, village, and city, and stores them in local storage
+
 
 
 ## Technologies Used
