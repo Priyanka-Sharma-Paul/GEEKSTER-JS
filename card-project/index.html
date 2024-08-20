@@ -3,11 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>User Info Card with Local Storage</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <body class="light-mode">
+        <div class="card">
+            <div class="input-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" placeholder="Name">
+            </div>
+            <div class="input-group">
+                <label for="phone">Phone Number:</label>
+                <input type="text" id="phone" placeholder="PhoneNumber">
+            </div>
+            <div class="input-group">
+                <label for="village">Village:</label>
+                <input type="text" id="village" placeholder="Village">
+            </div>
+            <div class="input-group">
+                <label for="city">City:</label>
+                <input type="text" id="city" placeholder="City">
+            </div>
+            <button id="saveBtn">Save Info</button>
+            <button class="theme-toggle" id="toggleThemeBtn">Toggle Dark Mode</button>
+            <div class="user-info" id="userInfo"></div>
+        </div>
     <script src="script.js"></script>
 </body>
 </html>
